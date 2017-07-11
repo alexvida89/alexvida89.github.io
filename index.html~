@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+Helllooo World
+=======
 ---
 layout: default
 ---
@@ -21,3 +24,4 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+>>>>>>> 55978d89589e97d710e4329b041129ea09391146
